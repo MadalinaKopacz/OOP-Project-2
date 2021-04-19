@@ -5,7 +5,6 @@
 #include "MyPodcastFile.h"
 #include "PodcastRelaxare.h"
 #include "PodcastStudiu.h"
-#include "Abonament.h"
 #include "playable.h"
 #include "MelodiiPop.h"
 using namespace std;
