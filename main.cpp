@@ -7,6 +7,7 @@
 #include "PodcastStudiu.h"
 #include "playable.h"
 #include "MelodiiPop.h"
+#include "Media.h"
 using namespace std;
 
 int User::numberOfUsers = 0;
